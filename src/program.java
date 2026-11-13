@@ -14,7 +14,7 @@ public class program {
         Thread thread3 = new Thread(callThreeThreads);
         thread3.start();
 
-        // 5. Classe JulietteAndRomeoJob
+        // 5. Threads et concurrence
         
     }
 }
