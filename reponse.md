@@ -1,7 +1,6 @@
 # Question 1
 
-Si on a une classe qui hérite déjà d'une autre classe, alors elle ne peut pas étendre de Thread.
-Runnable permet de séparer ce qu'il faut faire dans run() est qui l'éxecute avec un Thread.
+"extends Thread" embarque toutes les fonctionnalités de Thread alors que "implements Runnable" permet simplement de définir une méthode run()
 
 # Question 2
 
